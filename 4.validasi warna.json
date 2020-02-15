@@ -1,0 +1,8 @@
+{
+ 
+    "color"   :"#bbb",
+    "if_code" : ["format hex code benar"],
+    "validatecolor" :["if code"],
+    "#uitd565" : ["format kode salah"]
+ 
+}

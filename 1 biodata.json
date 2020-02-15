@@ -1,0 +1,34 @@
+   {
+    "name"                 : "Yanuar Bambang Hanafi",
+    "age"                  : "25",
+    "address"              : "Cerbonan",
+    "hobbies"              :["ngegame,begadang"],
+    "is_married"           : false,
+   
+   
+    "list_school": [
+        {   "school"       :"SDN Banyubiru 04",
+            "year_in"      :"2000",
+            "year_out"     :"2006"
+        },{ 
+            "school"       :"SMPN 1 Banyubiru",   
+            "year_in"      :"2006",
+            "year_out"     :"2009" 
+    
+        },{ "school"       :"SMA KARTIKA 3-1" ,   
+            "year_in"      :"2009",
+            "year_out"     :"2012"
+        },{          
+              "major"      : null
+        }],   
+    "Skills"     :  [ 
+        {   "skills_name"   : "Programmer learning",
+                            "level"         : "Beginner"
+       }],
+     "Interest_in_boolean"         : true
+    } 
+                   
+    
+    
+ 
+                             
